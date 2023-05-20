@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <malloc.h>
 #include <string.h>
-#include <locale.h>
 #include <ctype.h>
 
 struct pers {

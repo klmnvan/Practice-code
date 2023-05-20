@@ -2,7 +2,6 @@
 
 int main(void) {
 	system("chcp 1251>nul");
-	//setlocale(LC_ALL, ".1251");
 	Person* Persons = calloc(0, sizeof(Person));
 	int cycle = 1;
 	while (cycle != 0) {
