@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\mcsyan\Desktop\N\учеба\2 курс\ОАП\file\structs and file work\Practic\Header.h(70,50): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\mcsyan\Desktop\N\учеба\2 курс\ОАП\file\structs and file work\Practic\Header.h(70,50): message : рекомендуется использовать "%zd" в строке форматирования
+C:\Users\mcsyan\Desktop\N\учеба\2 курс\ОАП\file\structs and file work\Practic\Header.h(71,16): warning C4098: outputAccount: функция типа "void", возвращающая значение
+C:\Users\mcsyan\Desktop\N\учеба\2 курс\ОАП\file\structs and file work\Practic\Header.h(83,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\mcsyan\Desktop\N\учеба\2 курс\ОАП\file\structs and file work\Practic\Source.c(4,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Practic.vcxproj -> C:\Users\mcsyan\Desktop\N\учеба\2 курс\ОАП\file\structs and file work\Practic\x64\Debug\Practic.exe
